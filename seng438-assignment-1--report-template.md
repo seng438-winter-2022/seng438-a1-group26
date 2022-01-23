@@ -2,39 +2,41 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| 26     |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Liana Goodman |   |
+| Amir Abdrakmanov   |   |
+| Jared Lundy |   |
+| Jordan Lundy | |
 
 **Table of Contents**
+[1 Introduction](#_Toc439194677)
 
-(When you finish writing, update the following list using right click, then
-“Update Field”)
+[2 High-level description of the exploratory testing plan](#_Toc439194678)
 
-[1 Introduction	1](#_Toc439194677)
+[3 Comparison of exploratory and manual functional testing](#_Toc439194679)
 
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
-
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+[4 Notes and discussion of the peer reviews of defect reports](#_Toc439194680)
 
 [5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
+divided](#_Toc439194681)
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
+learned](#_Toc439194682)
 
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
+[7 Comments/feedback on the lab and lab document itself](#_Toc439194683)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Before beginning these lab axercises and the associated documentation, our group new a few things about manual script and exploratory testing.
 
+Primarily, we knew that exploratory testing allows users to explore the system creatively and to find their own issues based on how they might use the system, while manual scripted testing allows for comparison of results to both a known expected result and to results from previous (or subsequent) versions.
+
+Exploratory testing is most useful when done by people who were not on the development team and are unfamiliar with the system. It provides an insight into functionalities that users may try to work with and shows how the system may be used without instructions. This creative approach is sure to find bugs that developers may have missed due to familiarity with the system. It might also help reveal design flaws or UI flaws that, though not technically wrong, can greatly affect the user's ability to use, understand, and enjoy the program.
+
+Manual testing allows testers to use the system as intended, using knowledge about how the system should be behaving. This kind of testing displays bugs that interfere with the intended development but may miss additional bugs that interfere with the whole system. Testing with knowledge of the system allows testers to easily identify bugs as flaws instead of as a simple misunderstanding of the intended purpose of the system. Testers who know exactly what the expected output is, will be able to provide very clear details on what the issues are. Additionally, these tests will be the easiest to replicate as exploratory testing may be difficult to replicate if insufficient instructions are provided.
+
+A combination of these two test styles will allow for a thorough discovery of bugs, as long as all testers are careful in tracking their work and are test all of their ideas. Since the testing styles are so different, they are very complimentary.
 # High-level description of the exploratory testing plan
 
 Text…
@@ -51,8 +53,13 @@ Text…
 Text…
 
 # How the pair testing was managed and team work/effort was divided 
+Team work was divided as evenly as possible, with both pairs doing one round of exploratory testing and both pairs doing one round of manual scripted testing. The manual scripted testing was split up so that one group would run the tests on version 1.0 and one group would run the tests on version 1.1. Additionally, the groups did reverse testing order with one group starting with exploratory and the other group starting with scripted testing. This made sure that the groups approached testing differently and increased the number of bugs we may find.
 
-Text…
+After the groups had completed individual testing of version 1.0, we all got together and compared our bugs found. Then we all added the bugs to BackLog to ensure our bugs were properly tracked.
+
+Following our logging of bugs, we broke back into pairs to do a second round of exploratory testing with greater knowledge of the system and some ideas of features which may need to be explored more.
+
+Afterwards, the scripted testing of version 1.1 was completed. From there, the pairs got back together to discuss the results and compile the report.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
