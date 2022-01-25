@@ -53,6 +53,17 @@ Functions being targeted:
 	- Customer aborting transaction in progress
 	- Invalid pin response
 
+
+Testing Approach:
+	The exploratory testing approach will be to test every function a little bit to find evident bugs throughout the
+	system's operation. This will allow us to gather an extensive list of the most general bugs, and gives us the best
+	exploration/overview of the system's defects.Thus, the most crucial errors in the system should be revealed in this testing, 
+	and ensures the biggest defects are not missed, leaving ideally only the small, less obvious bugs to be tested.
+
+Test Case paths:
+	The test cases will be created using the most common paths for the system. This should, as previously stated, allow this exploratory testing
+	to best cover the most general and important bugs in the system, while simultaneously allowing us to best explore the system.
+
 # Comparison of exploratory and manual functional testing
 
 Text…
