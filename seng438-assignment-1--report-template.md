@@ -39,7 +39,19 @@ Manual testing allows testers to use the system as intended, using knowledge abo
 A combination of these two test styles will allow for a thorough discovery of bugs, as long as all testers are careful in tracking their work and are test all of their ideas. Since the testing styles are so different, they are very complimentary.
 # High-level description of the exploratory testing plan
 
-Text…
+Motivation:
+	The initial exploratory testing phase is meant to both explore the system under test, while also identifying a large amount of bugs in the system.
+	Since the exploratory phase does not have any script, the goal is therefore to find as many initial bugs as possible in a flexible manner.
+	The flexibility of this step should allow us to be creative in finding the bugs within the system and also becoming very comfortable with the workings
+	of the system along the way.
+
+Functions being targeted:
+	- Customer cash withdrawal
+	- Customer cash deposit, both with cash and with checks
+	- Customer money transfer between two accounts
+	- Customer balance inquiry
+	- Customer aborting transaction in progress
+	- Invalid pin response
 
 # Comparison of exploratory and manual functional testing
 
