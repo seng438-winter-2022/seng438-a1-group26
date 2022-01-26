@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| 26               |     |
-| ---------------- | --- |
-| Liana Goodman    |     |
-| Amir Abdrakmanov |     |
-| Jared Lundy      |     |
-| Jordan Lundy     |     |
+| Group 26         |          |                |
+| ---------------- | -------- | -------------- |
+| Liana Goodman    | 30089196 | LianaBG        |
+| Amir Abdrakmanov | 30085827 | aabdrakmanov   |
+| Jared Lundy      | 30086687 | jared840       |
+| Jordan Lundy     | 30086686 | jordan427-prog |
 
 **Table of Contents**
 
