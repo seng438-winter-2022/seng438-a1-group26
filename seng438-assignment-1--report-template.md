@@ -12,7 +12,7 @@
 **Table of Contents**
 [1 Introduction](#introduction)
 
-[2 High-level description of the exploratory testing plan](#high-level-description-of-the-exploratory-testing plan)
+[2 High-level description of the exploratory testing plan](#high-level-description-of-the-exploratory-testing-plan)
 
 [3 Comparison of exploratory and manual functional testing](#comparison-of-exploratory-and-manual-functional-testing)
 
@@ -22,7 +22,7 @@
 divided](#how-the-pair-testing-was-managed-and-team-work/effort-was-divided)
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned](#difficulties-encountered-challenges overcome-and-lessons-learned)
+learned](#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
 [7 Comments/feedback on the lab and lab document itself](#comments/feedback-on-the-lab-and-lab-document-itself)
 
