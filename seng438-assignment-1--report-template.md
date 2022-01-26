@@ -80,8 +80,10 @@ Efficiency-wise, manual testing edged out exploratory due to the test suite. Sin
     system, containing all defects recorded in the system.
 
 # Notes and discussion of the peer reviews of defect reports
-
-Text…
+Defect reports were create on backlog, on the space: https://seng438-x.backlog.com/ with email amir.abdrakmanov@ucalgary.ca, username Lab1-GroupX and password Seng438Assignments. Here X was a place holder since this was created before the group number was given. 
+After teams completed the first round of testing on version 1.0, both teams would review each other's defects reports and test them on version 1.1. Some reports found were duplicate with another report, those were deleted. Others were somewhat simliar, these simliar reports were merged when possible, otherwise left alone. Some reports however were found to not be of the highest quality, those were also deleted.
+As the system under test updated to 1.1, new bugs were found and added to the report. These defects are marked as "open" in backlog. 
+The way the defect reports were reveiwed was pair based so that each team could see and review the defects with a "fresh set of eyes"
 
 # How the pair testing was managed and team work/effort was divided 
 Team work was divided as evenly as possible, with both pairs doing one round of exploratory testing and both pairs doing one round of manual scripted testing. The manual scripted testing was split up so that one group would run the tests on version 1.0 and one group would run the tests on version 1.1. Additionally, the groups did reverse testing order with one group starting with exploratory and the other group starting with scripted testing. This made sure that the groups approached testing differently and increased the number of bugs we may find.
