@@ -9,6 +9,8 @@
 | Jared Lundy      | 30086687 | jared840       |
 | Jordan Lundy     | 30086686 | jordan427-prog |
 
+NOTE some group members may not appear as contributors, they still participated and have a commits in the commit history.
+
 **Table of Contents**
 
 [1 Introduction](#introduction)
